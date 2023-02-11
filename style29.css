@@ -1,0 +1,22 @@
+.box{
+    border: dotted 2px rebeccapurple;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+}
+.box > div{
+    border: solid 2px blue;
+    border-radius: 5px;
+}
+.one{
+    flex: 0 0 100px;
+    align-self: center;
+}
+.two{
+    flex: 0 0 100px;
+    align-self: flex-end;
+}
+.three{
+    flex: 0 0 100px;
+}

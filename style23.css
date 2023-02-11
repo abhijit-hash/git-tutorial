@@ -1,0 +1,10 @@
+.abc{
+    border: dotted 2px mediumspringgreen;
+    width: 500px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.abc > div{
+    border: solid 2px rgb(230, 176, 217);
+    border-radius: 5px;
+}

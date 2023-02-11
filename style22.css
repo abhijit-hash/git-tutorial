@@ -1,0 +1,25 @@
+.a{
+    border: solid 1px blue;
+}
+.a > div{
+    height: 50px;
+    width: 200px;
+}
+.first{
+    border: solid 3px mediumvioletred;
+    float: left;
+    height: 50px;
+    width: 200px;
+}
+.second{
+    border: solid 3px rgb(21, 199, 77);
+    float: right;
+    height: 50px;
+    width: 200px;
+}
+.third{
+    border: solid 3px rgb(199, 54, 21);
+    float: left;
+    height: 50px;
+    width: 200px;
+}

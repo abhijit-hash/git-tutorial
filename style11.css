@@ -1,0 +1,19 @@
+.a{
+    background-color: rgb(129, 170, 6);
+    border-left: solid 5px blue;
+}
+
+.b{
+    background-color: red;
+    border-right: solid green 5px;
+}
+
+.c{
+    background-color: hotpink ;
+    border-top: solid 5px blue;
+    border-bottom: solid 5px rgb(234, 12, 16);
+}
+
+.d{
+    background-color: blueviolet;
+}
