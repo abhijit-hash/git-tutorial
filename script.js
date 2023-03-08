@@ -1,7 +1,7 @@
 
 const abc=6;
 abc="hello world!";
-document.write(abc);
+console.log(abc);
 abc="string";
-document.write(abc);
+console.log(abc);
 
